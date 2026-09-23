@@ -8,8 +8,17 @@ title: Distant Reading Project
 
 # Distant Reading Assignment 
 
-*This is a page where you can paste your distant reading assignment. I strongly suggest writing it in Word or Google Docs first, because Github will not alert you of typos*
+I asked Voyant to analyze the text on this website, containing a [letter from a British Captain](https://news.lettersofnote.com/p/i-have-just-been-through-one-of-the) who witnessed a historic truce on Christmas of 1914.
 
-This file ends in ".md," which means it is a Markdown document, rather than HTML. I find Markdown easier to use than HTML, but you can easily change this to an HTML document if you prefer: just replace the .md with .html and commit! 
+analysis of what i learned
+
+![Screenshot of most common words from Captain Ames's letter](voyant image.png)
+
+
+
+
+analysis of copilot
+
+copilot conversation
 
 Here is a fun link to a [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet/). Once you grasp the basics here, go add "Markdown" to your list of skills on your resume!
