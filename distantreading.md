@@ -12,7 +12,7 @@ I asked Voyant to analyze the text on this website, containing a [letter from a 
 
 analysis of what i learned
 
-![Screenshot of most common words from Captain Ames's letter](voyant image.png)
+![Screenshot of most common words from Captain Ames's letter](voyantimage.png)
 
 
 
